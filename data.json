@@ -1,0 +1,290 @@
+[
+{"name" : "Left nav",
+    "symbol" : "É",
+    "unicode" : "f0c9",
+    "className" : "<i class="fas fa-bars"></i>", }
+
+{"name" : "Dashboard",
+    "symbol" : "null",
+    "unicode" : "f080",
+    "className" : "<i class="fas fa-chart-bar"></i>", }
+
+{"name" : "Workbench",
+    "symbol" : "",
+    "unicode" : "f01c",
+    "className" : "<i class="fas fa-inbox"></i>",
+}
+
+{"name" : "Portfolio Search",
+    "symbol" : "",
+    "unicode" :"f002",
+    "className" : "<i class="fas fa-search"></i>",
+}
+
+{"name" : "Meetings",
+    "symbol" : "",
+    "unicode" :"f63d",
+    "className" : "<i class="fas fa-users-class"></i>"}
+
+{"name" : "Reports",
+    "symbol" : "",
+    "unicode" :"f200",
+    "className" : "<i class="fas fa-chart-pie"></i>",
+}
+
+{"name" : "iEnvision",
+    "symbol" : "",
+    "unicode" :"f111",
+    "className" : "<i class="far fa-circle"></i>",
+}
+
+{"name" : "People",
+    "symbol" : "À",
+    "unicode" :"f0c0",
+    "className" : "<i class="fas fa-users"></i>",
+}
+
+{"name" : "Products",
+    "symbol" : "",
+    "unicode" :"f469",
+    "className" : "<i class="fas fa-briefcase-medical"></i>",
+}
+
+{"name" : "User Defined Event",
+    "symbol" : "",
+    "unicode" :"f736",
+    "className" : "<i class="fas fa-calendar-star"></i>",
+}
+
+{"name" : "Vendor (organization?)  Management",
+    "symbol" : "",
+    "unicode" :"f463",
+    "className" : "<i class="fas fa-barcode-alt"></i>",
+}
+
+{"name" : "Project Inputs",
+    "symbol" : "",
+    "unicode" :"f481",
+    "className" : "<i class="fas fa-notes-medical"></i>",
+}
+
+{"name" : "Scientific Platforms",
+    "symbol" : "",
+    "unicode" :"f481",
+    "className" : "<i class="fas fa-notes-medical"></i>",
+}
+
+{"name" : "Timelines",
+    "symbol" : "",
+    "unicode" :"f640",
+    "className" : "<i class="fas fa-abacus"></i>",
+}
+
+{"name" : "Financial Admin",
+    "symbol" : "",
+    "unicode" :"f640",
+    "className" : "<i class="fas fa-abacus"></i>",
+}
+
+{"name" : "Financial Plan",
+    "symbol" : "",
+    "unicode" :"f442",
+    "className" : "<i class="fas fa-chess-knight-alt"></i>",
+}
+
+{"name" : "Budget/Exchange Rate",
+    "symbol" : "",
+    "unicode" :"f542",
+    "className" : "<i class="fas fa-project-diagram"></i>",
+}
+
+{"name" : "Planning Module",
+    "symbol" : "",
+    "unicode" :"f442",
+    "className" : "<i class="fas fa-chess-knight-alt"></i>",
+}
+
+{"name" : "Customization",
+    "symbol" : "",
+    "unicode" :"f542",
+    "className" : "<i class="fas fa-project-diagram"></i>",
+}
+
+{"name" : "Integration",
+    "symbol" : "",
+    "unicode" :"f6ff",
+    "className" : "<i class="fas fa-network-wired"></i>",
+}
+
+{"name" : "Analytics",
+    "symbol" : "",
+    "unicode" :"f643",
+    "className" : "<i class="fas fa-analytics"></i>",
+}
+
+{"name" : "Security",
+    "symbol" : "",
+    "unicode" :"f2f7",
+    "className" : "<i class="fas fa-shield-check"></i>",
+}
+
+{"name" : "System Admin",
+    "symbol" : "",
+    "unicode" :"f552",
+    "className" : "<i class="fas fa-toolbox"></i>",
+}
+
+{"name" : "Permissions",
+    "symbol" : "",
+    "unicode" :"f6f3",
+    "className" : "<i class="fas fa-key-skeleton"></i>"}
+}
+    
+{"name" : "Help/FAQ",
+    "symbol" : "",
+    "unicode" :"f128",
+    "className" : "<i class="fas fa-question"></i>",
+}
+
+{"name" : "Bookmarks",
+    "symbol" : ".",
+    "unicode" :"f02e",
+    "className" : "<i class="fas fa-bookmark"></i>",
+}
+
+{"name" : "Notifications",
+    "symbol" : "ó",
+    "unicode" :"f0f3",
+    "className" : "<i class="fas fa-bell"></i>",
+}
+
+{"name" : "Profile",
+    "symbol" : "",
+    "unicode" :"f007",
+    "className" : "<i class="fas fa-user"></i>",
+}
+
+{"name" : "iEnvision (artwork)",
+    "symbol" : "",
+    "unicode" : "",
+    "className" : "",
+    }
+
+{"name" : "FAQ",
+    "symbol" : "Y",
+    "unicode" :"f059",
+    "className" : "<i class="fas fa-question-circle"></i>",
+}
+
+{"name" : "Bookmark (chart)",
+    "symbol" : "",
+    "unicode" :"f659",
+    "className" : "<i class="far fa-file-chart-line"></i>",
+}
+
+{"name" : "Bookmark (list)",
+    "symbol" : "",
+    "unicode" :"f00b",
+    "className" : "<i class="far fa-th-list"></i>",
+}
+
+{"name" : "Bookmark (table)",
+    "symbol" : "Î",
+    "unicode" :"f0ce",
+    "className" : "<i class="far fa-table"></i>",
+}
+
+{"name" : "Bookmark (preview)",
+    "symbol" : "Û",
+    "unicode" :"f0db",
+    "className" : "<i class="far fa-columns"></i>",
+}
+
+{"name" : "Bookmark (workbench)",
+    "symbol" : "",
+    "unicode" :"f01c",
+    "className" : "<i class="far fa-inbox"></i>",
+}
+
+{"name" : "Bookmark (dashboard)",
+    "symbol" : "",
+    "unicode" :"f58d",
+    "className" : "<i class="far fa-grip-horizontal"></i>",
+}
+
+{"name" : "Bookmark (financial)",
+    "symbol" : "",
+    "unicode" :"f53c",
+    "className" : "<i class="far fa-money-check"></i>",
+}
+
+{"name" : "Single notification",
+    "symbol" : "",
+    "unicode" :"f4b0",
+    "className" : "<i class="far fa-comment-lines"></i>",
+}
+
+{"name" : "More notifications",
+    "symbol" : "",
+    "unicode" :"f4ac",
+    "className" : "<i class="far fa-comment-check"></i>",
+}
+
+{"name" : "My Files",
+    "symbol" : "{",
+    "unicode" :"f07b",
+    "className" : "<i class="far fa-folder"></i>"}
+
+{"name" : "My Profile",
+    "symbol" : "",
+    "unicode" :"f2bd",
+    "className" : "<i class="fas fa-user-circle"></i>",
+}
+
+{"name" : "OOO",
+    "symbol" : "",
+    "unicode" :"f4fd",
+    "className" : "<i class="fas fa-user-clock"></i>",
+}
+
+{"name" : "AOI Preferences",
+    "symbol" : "",
+    "unicode" :"f507",
+    "className" : "<i class="fas fa-user-tag"></i>",
+}
+
+{"name" : "Notifications Preferences",
+    "symbol" : "ó",
+    "unicode" :"f0f3",
+    "className" : "<i class="far fa-bell"></i>",
+}
+
+{"name" : "My Groups (why here?)",
+    "symbol" : "",
+    "unicode" :"f500",
+    "className" : "<i class="fas fa-user-friends"></i>",
+}
+
+{"name" : "Country Preferences",
+    "symbol" : "",
+    "unicode" :"f57e",
+    "className" : "<i class="far fa-globe-asia"></i>",
+}
+
+{"name" : "Logout",
+    "symbol" : "",
+    "unicode" :"f2f5",
+    "className" : "<i class="fas fa-sign-out-alt"></i>",
+}
+
+{"name" : "About EPG",
+    "symbol" : "",
+    "unicode" :"f37e",
+    "className" : "<i class="far fa-browser"></i>",
+}
+
+{"name" : "iEnvision Support",
+    "symbol" : "",
+    "unicode" :"f590",
+    "className" : "<i class="fas fa-headset"></i>", }
+    ]
